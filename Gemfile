@@ -1,6 +1,7 @@
 source 'http://gemcutter.org'
 
 gem 'activemodel'
+gem 'activeresource', '=3.0.2'
 
 # Bundle gems for test environment
 group :test do

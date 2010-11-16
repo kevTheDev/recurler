@@ -12,10 +12,10 @@ module Recurler
   autoload :SubscriptionPlan, 'recurler/subscription_plan'
   
   
-  # TODO - load this from YAML file at config/recurler.yml
-  self.username  = 'api-test@legallifeguard-test.com'
-  self.site      = 'https://legallifeguard.recurly.com'
-  self.password  = 'ba3b2fae09de4044bcb5c6aa969a7969'
-  self.subdomain = 'legallifeguard-test'
+  # # TODO - load this from YAML file at config/recurler.yml
+  #   self.username  = 'api-test@legallifeguard-test.com'
+  #   self.site      = 'https://legallifeguard.recurly.com'
+  #   self.password  = 'ba3b2fae09de4044bcb5c6aa969a7969'
+  #   self.subdomain = 'legallifeguard-test'
   
 end
