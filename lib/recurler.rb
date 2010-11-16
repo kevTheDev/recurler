@@ -9,4 +9,5 @@ module Recurler
   autoload :BillingInfo,    'recurler/billing_info'
   autoload :Subscription,   'recurler/subscription'
   autoload :CreditCard,     'recurler/credit_card'
+  autoload :SubscriptionPlan,     'recurler/subscription_plan'
 end
