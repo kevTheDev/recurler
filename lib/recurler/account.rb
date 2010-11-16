@@ -1,6 +1,6 @@
 module Recurler
   
-  class Account
+  class Account < ActiveResource::Base
     
     include ActiveModel::Serialization
     include ActiveModel::Validations

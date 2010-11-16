@@ -1,6 +1,6 @@
 require 'rubygems'
 require 'active_model'
-
+require 'active_resource'
 
 module Recurler
 
